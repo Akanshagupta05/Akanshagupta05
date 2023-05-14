@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0047AB&size=25&center=true&vCenter=true&width=350&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/><h1/>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanshagupta05&label=Profile%20views&color=0e75b6&style=flat" alt="akanshagupta05" /> </p>
-<img align="right" alt="Problem Solving" width ="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="Problem Solving" width ="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtodWxMDPAQKILaeCQlKfAvw_gT_iwtg8dy1JvQLNsK83QrZklyjFZef2UTgXaY633i0&usqp=CAU">
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Web development , React-Js, Node-Js**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Akanshagupta05/](https://github.com/Akanshagupta05/)<br><br>- 💬 Ask me about **C ,Java, JavaScript ,Data Structures and Algorithms,Problem Solving and MERN Stack Web Development**<br><br>- 📫 How to reach me **akanshaa.gupta571@gamil.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/1HzuaXJDVXNa8nkiuiFGRvsN4VW_v8p6Y/view?usp=sharing](https://drive.google.com/file/d/1HzuaXJDVXNa8nkiuiFGRvsN4VW_v8p6Y/view?usp=sharing)<br><br>- ⚡ Fun fact **print("you have one chance that is life");**
